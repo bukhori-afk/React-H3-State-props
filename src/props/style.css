@@ -1,0 +1,28 @@
+.wrraper{
+    height: 600px;
+    display: inline-block;
+    margin-right: 30px;
+}
+.content{
+    width: 350px;
+    float: left;
+    background-color: cornflowerblue;
+    margin-right: 20px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(25,38,117,1);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(25,38,117,1);
+    box-shadow: 10px 10px 5px 0px rgba(25,38,117,1);
+}
+.imagesliderr{
+    width: 350px;
+    border-bottom: 2px dashed gainsboro;
+}
+.des{
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    font-style: italic;
+}
+.wraperapp{
+    width: 1200px;
+    margin: auto;
+}
